@@ -1,2 +1,1 @@
-# Klipper_SKR_2.0_TMC2209_BLTouch_Ender5Pro
-Klipper Configuration for my Ender 5 Pro with a SKR 2.0 Board and TMC2209 drivers along a BL Touch
+# Klipper configuration - Ender 5 Pro / BigTreeTech SKR 2.0 with TMC 2209 and BL Touch
